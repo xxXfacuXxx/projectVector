@@ -1,0 +1,11 @@
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\bin\Debug\frmFromVector.exe.config
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\bin\Debug\frmFromVector.exe
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\bin\Debug\frmFromVector.pdb
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\obj\Debug\frmFromVector.csproj.AssemblyReference.cache
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\obj\Debug\frmFromVector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\obj\Debug\frmFromVector.frmFromVector.resources
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\obj\Debug\frmFromVector.Properties.Resources.resources
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\obj\Debug\frmFromVector.csproj.GenerateResource.cache
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\obj\Debug\frmFromVector.csproj.CoreCompileInputs.cache
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\obj\Debug\frmFromVector.exe
+C:\Users\Facu Cutuli\Desktop\Systems Solutions\Diseños Webs\programacion C#\frmFromVector\frmFromVector\obj\Debug\frmFromVector.pdb
